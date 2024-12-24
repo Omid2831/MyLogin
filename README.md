@@ -55,4 +55,4 @@ We welcome contributions! To contribute:
 🚀 **Upcoming Feature**: Adding password hashing and salting for secure storage of user credentials. This enhancement will ensure even stronger protection for user data.
 
 ## License
-📜 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+📜 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
