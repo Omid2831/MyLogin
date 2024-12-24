@@ -14,7 +14,9 @@
 
 ## Features
 ✨ **User Registration and Login**: Simple and intuitive user registration and login functionality.
+
 🛡️ **Session Management**: Robust session management for secure and reliable user authentication.
+
 🎨 **Customizable Forms**: Easily customizable login and registration forms to fit your application's design.
 
 ## Movie Demo 🎥
