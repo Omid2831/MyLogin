@@ -10,7 +10,7 @@
 - [License](#license)
 
 ## Overview
-🎉 MyLogin is a sophisticated yet user-friendly login system designed to provide secure authentication for users. With a focus on both functionality and elegance, MyLogin ensures a seamless experience for managing user accounts.
+🎉 MyLogin is an uncomplicated yet user-friendly login system designed to provide secure authentication for users. With a focus on functionality and elegance, MyLogin ensures a seamless experience for managing user accounts.
 
 ## Features
 ✨ **User Registration and Login**: Simple and intuitive user registration and login functionality.
