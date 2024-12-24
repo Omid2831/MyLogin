@@ -19,7 +19,7 @@
 
 ## Movie Demo 🎥
 Check out our demo video showcasing the features of MyLogin:
-[![Watch the Demo](img/mainpic.png)](https://www.youtube.com/watch?v=your-demo-link)
+[![Watch the Demo](img/mainpic.png)](img/myloginvid.mp4)
 
 ## Contributing
 We welcome contributions! To contribute:
